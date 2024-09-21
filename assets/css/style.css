@@ -1,0 +1,53 @@
+.navbar-brand{
+    font-family: "Dancing Script", cursive;
+    color:antiquewhite;
+}
+.nav-link{
+    font-family: "Hubballi", sans-serif;
+    color:antiquewhite;
+}
+.nav-link:hover{
+    color:aqua;
+}
+body{
+    font-family: "Hubballi", sans-serif;
+}
+.image-top {
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+#me{
+    height: 300px;
+    align-self: center;
+    padding: 50px;
+    border-radius: 5px;
+}
+#intro{
+    display:inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+#intro>p{
+    font-size: large;
+}
+#education{
+    padding-top: 30px;
+}
+#experience{
+    padding-top: 30px;
+}
+#portfolio{
+    padding-top: 30px;
+}
+h2,h4{
+    font-family: "Dancing Script", cursive;
+}
+button>a{
+    text-decoration-line: none;
+    color:rgb(16, 159, 159);
+}
+button>a:hover{
+    color:antiquewhite;
+}

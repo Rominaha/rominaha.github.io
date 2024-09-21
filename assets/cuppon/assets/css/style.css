@@ -1,0 +1,115 @@
+nav {
+    font-family: Roboto;
+    margin-bottom: 2%;
+}
+
+.navbar-brand{
+    justify-content: flex-start;
+
+}
+
+.logo-top{
+    max-width: 100px;
+    max-height: auto;
+    padding-left:20px;
+}
+
+.navbar-toggler-icon{
+    border-color: #F8F9FA;
+    border-style: double;
+    border-radius: 2px;
+
+}
+
+#navbarNav{
+    justify-content: flex-end;
+    margin-right: 2%;
+}
+
+.nav-link{
+    font-weight:300;
+    font-size: medium;
+}
+
+.nav-link:active, .nav-link:hover{
+    color:white;
+}
+
+
+.row{
+    justify-content: center;
+}
+
+.card{
+    justify-content: center;
+    margin: 2%;
+    width: 20rem;
+    padding:0;
+    border-radius: 0%;
+}
+
+.card-img-top{
+    margin:0;
+    padding:0;
+    max-width: fit-content;
+}
+
+.card-title{
+    font-weight:300;
+    font-size: medium;
+}
+
+.card-text{
+    font-weight:300;
+    font-size: small;
+}
+
+li{
+    text-align: end;
+}
+
+.original-price{
+    font-size: small;
+    font-weight: 300;
+}
+
+.new-price{
+    font-size: medium;
+    font-weight: 500;
+}
+
+form{
+    max-width: 98%;
+    text-align: center;
+    font-weight: 500;
+}
+
+input{
+    margin-top: 1%;
+    max-width: 80%;
+    border-color: #dddddd;
+    border:1px;
+    border-radius: 3px;
+}
+
+#fname, #lname{
+    width:90%;
+}
+
+#sent{
+    padding:0.5% 2% 0.5% 2%;
+}
+
+.logo-bottom{
+    max-width: 80px;
+    max-height: auto;
+    margin-left: 47%;
+    margin-right: 47%;
+    margin-bottom: 5px;
+}
+
+footer>p{
+    font-weight:300;
+    font-size: small;
+    text-align: center;
+}

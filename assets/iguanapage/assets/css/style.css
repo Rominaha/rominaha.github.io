@@ -1,0 +1,164 @@
+
+header {
+    margin: 0;
+    width: auto;
+    height: 73px;
+    background-color: #000000;
+    opacity: 1;
+    }
+    
+header h1 {
+    display: inline-block;
+    margin: 7px 0 0 530px;
+    height: 59px;
+    font-size: 50px;
+    text-align: center;
+    font-family: Raleway, sans-serif;
+    letter-spacing: 0;
+    color: #FFFFFF;
+    opacity: 1;
+    font-weight: 400;
+    }
+    
+main {   
+    opacity: 1;
+    background-color: black;
+    }
+
+main img {
+    width: -webkit-fill-available;
+    }
+    
+.wiki {
+    margin: 0;
+    width: auto;
+    height: 348px;
+    background-color: #000000;
+    opacity: 1;
+    }
+
+.wiki p {
+    float: left;
+    margin: 76px 0 0 150px;
+    width: 475px;
+    height: 197px;
+    text-align: left;
+    font: normal normal 300 16px Raleway;
+    letter-spacing: 0;
+    color: #FFFFFF;
+    opacity: 1;
+    }
+    
+.wiki img {
+    float: left;
+    margin: 45px 0 0 106px;
+    padding: 0;
+    width: 399px;
+    height: 237px;
+    opacity: 1;
+    }
+    
+.caracts{
+    margin: 0;
+    width: auto;
+    height: 348px;
+    background: #1E1A13 0% 0% no-repeat padding-box;
+    opacity: 0.98;
+    }
+    
+.caracts h2 {
+    float: left;
+    width: 99.5%;
+    margin:75px 0 0 463px;
+    height: 47px;
+    text-align: left;
+    font-family: Raleway, sans-serif;
+    font-size: 40px;
+    font-weight: 400;
+    color: #FFFFFF;
+    letter-spacing: 0;
+    opacity: 1;
+    }
+    
+.caract1 {
+    float:left;
+    text-align: center;
+    margin:50px 0 0 301px;
+    }
+
+.caract1,.caract2,.caract3 i {
+    color: white;
+    font-size: 30px;
+    }
+    
+.caract1,.caract2,.caract3 p {
+    text-align: center;
+    height: 30px;
+    font-family: Raleway, sans-serif;
+    font-size: 24px;
+    font-weight: 300;
+    letter-spacing: 0;
+    color: #FFFFFF;
+    opacity: 1;
+    }
+    
+.caract2{
+    float:left;
+    text-align: center;
+    margin:50px 0 0 182px;
+    }
+    
+.caract3{
+    float:left;
+    text-align: center;
+    margin:50px 0 0 146px;
+    }
+    
+.gallery{
+    display: inline-block;
+    width: 99.99%;
+    height: 348px;
+    background-color: #000000;
+    opacity:0.96;
+    } 
+    
+.gallery img{
+    width: 316px;
+    height: 202px;
+    margin: 73px 0 0 0;
+    }
+    
+#img1{
+    margin-left: 151px;
+    }
+
+#img2{
+    margin-left: 16px;
+    }
+
+#img3{
+    margin-left: 16px;
+    }
+    
+footer{
+    width: auto;
+    height: 102px;
+    background: #1E1A13 0% 0% no-repeat padding-box;
+    opacity:0.94;
+    }
+    
+footer p {
+    display: inline-block;
+    margin: 39px 0 0 299px;
+    text-align: center;
+    font: normal normal 300 20px/24px Raleway,sans-serif;
+    line-height: 24px;
+    color: #FFFFFF;
+    letter-spacing: 0;
+    opacity: 1;
+    }
+
+footer a{
+    text-decoration: none;
+    color:inherit;
+    }

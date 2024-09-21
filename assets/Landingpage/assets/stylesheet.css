@@ -1,0 +1,40 @@
+header{
+    margin-top: none ;
+    padding-top: none;
+    border-top: none;
+    height: 100px;
+    font-family: Impact, sans-serif;
+    font-size: 2rem;
+    color:white;
+    text-shadow: 1px 1px 2px black, 0 0 25px burlywood, 0 0 5px antiquewhite;
+    text-align: center;
+    background-image: url("img/bh.jpg");
+    background-size: contain;
+    background-blend-mode: color-dodge;
+}
+
+table{
+    margin: 0 100px 20px 300px;
+    padding-top:0;
+    border:0;
+    font-family: Verdana, sans-serif;
+    color: burlywood;
+    text-shadow: 0.5px 0.5px 1px black;
+    text-align: left;
+}
+
+.foto{ 
+    padding: 10px;
+    width: 200px;
+    height: 200px;
+}
+
+footer{
+    max-height: 50px;
+    padding: 10px;
+    background-color: burlywood;
+    font-family: 'Lucida Sans', sans-serif;
+    color: antiquewhite;
+    text-shadow: 0.5px 0.5px 1px black;
+    text-align: center;
+}
